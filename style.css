@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+.mark-style{
+  padding: 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  cursor: pointer;
+}
+.voice-style{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(208 99 44);
+  color: white;
+  cursor: pointer;
+}
